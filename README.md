@@ -45,3 +45,21 @@ The goal is to apply essential security practices such as user management, SSH h
 
 ## Important Note
 This project is a lab environment for learning purposes. No sensitive or production information is included.
+
+
+## Visual Documentation
+
+### Linux Server Hardening Workflow
+![Linux Server Hardening Workflow](docs/images/linux-hardening-workflow.png)
+
+### Linux Server Security Layers
+![Linux Server Security Layers](docs/images/linux-security-layers.png)
+
+### Basic UFW Firewall Rules
+![Basic UFW Firewall Rules](docs/images/ufw-firewall-rules.png)
+
+### Linux Server Hardening Checklist
+![Linux Server Hardening Checklist](docs/images/linux-hardening-checklist.png)
+
+### Before vs After Hardening
+![Before vs After Hardening](docs/images/before-after-hardening.png)
